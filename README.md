@@ -8,7 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="50" height="50"/>&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/cucumber-icon-512x512-5j2rycde.png" title="Gherkin" alt="Gherkin" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cucumber-green.svg" title="Gherkin" alt="Gherkin" width="50" height="50"/>&nbsp;
 </div>
 
 ---
