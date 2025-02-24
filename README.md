@@ -1,24 +1,41 @@
-### Olá, mundo! Eu sou o Felipe
-<hr>
+<h1 align="center">🚀 Felipe Nascimento 🚀</h1>
+<h3 align="center">Embedded Systems | C & Python Developer | Robotics | Computer Engineering</h3>
 
+---
 
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Django" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-  <img align="center" alt="Rafa-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/947682063413297242/947682141871935568/download20220200232231.png?width=465&height=465">
+### 🛠️ Technologies & Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cucumber_Logo.svg/512px-Cucumber_Logo.svg.png" title="Gherkin" alt="Gherkin" width="50" height="50"/>&nbsp;
 </div>
-  
-  ##
- 
-<div> 
-   <a href="https://www.linkedin.com/in/felipe-nascimento-a4866a20b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
- 
+---
+
+### 🤖 About Me
+- 🎓 **Computer Engineering student** passionate about **Embedded Systems, Robotics, and Software Development**.  
+- 🛠️ Skilled in **low-level programming, microcontrollers, and hardware-software integration**.  
+- ⚡ Enthusiastic about **automation, IoT, and real-time systems**.  
+- 📜 Experience with **Gherkin for behavior-driven development**.  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:your.email@example.com)  
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeNascimento0&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeNascimento0&theme=tokyonight"/>
 </div>
+
+---
+
+### ⚡ Featured Projects  
+🚀 **Coming soon...**  
+
+---
+
+💡 *"Engineering is about solving problems and pushing boundaries!"* 🚀  
 
