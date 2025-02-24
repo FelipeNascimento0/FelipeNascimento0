@@ -18,7 +18,7 @@
 - 🛠️ Skilled in **low-level programming, microcontrollers, and hardware-software integration**.  
 - ⚡ Enthusiastic about **automation, IoT, and real-time systems**.  
 - 📜 Experience with **Gherkin for behavior-driven development**.  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:your.email@example.com)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/felipe-nascimento-a4866a20b/)
 
 ---
 
